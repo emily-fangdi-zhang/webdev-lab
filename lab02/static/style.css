@@ -25,8 +25,14 @@ nav ul {
 
 main {
     margin: 3vh;
+    width: 500px;
+    border: solid 1px #CCC;
 }
 
+img {
+    width: 100%;
+    height: auto;
+}
 
 @media only screen and (max-width: 1000px) {
     /* Media queries go here */
